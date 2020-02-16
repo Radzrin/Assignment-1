@@ -1,22 +1,22 @@
 import java.util.Random;
 import java.lang.Math;
 
-public class RandomGenerator {
+public class question5 {
  public static void main(String args[]) 
     { 
-        // create instance of Random class 
+        
         Random rand = new Random(); 
   
-        // Generate random integers in range 0 to 100
+        // Generate a random number from 0 to 100
         int rand_int1 = rand.nextInt(100); 
   
-        // Print random integers 
+        // Print out the bumber
         System.out.println("Random Integers: "+rand_int1);        
   
-        // Generate Random doubles 
+     
         double rand_dub1 = rand.nextDouble(); 
 		
-		//math
+		//square root
 		Math.sqrt(rand_dub1);
 		System.out.println("the square root of the number is " + Math.sqrt(rand_int1));
 		//power of 2
