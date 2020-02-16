@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Math {
+public class Question3 {
   public static void main(String[] args) {
 int num1,num2,num3,result;
 		System.out.println("Enter any 3 integers ");
