@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.lang.Math;
 
-public class question5 {
+public class Question5 {
  public static void main(String args[]) 
     { 
         
