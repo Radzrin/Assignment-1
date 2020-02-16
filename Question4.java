@@ -5,6 +5,7 @@ public class Question4{
  public static void main(String[] args) {
 		
 		String url;
+		lenght x;
 	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("insert a url ");
