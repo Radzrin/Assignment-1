@@ -17,7 +17,7 @@ public class Question2 {
 		priceFinal = price * taxes;
 		finish = priceFinal + price;
 
-		System.out.println("the price is " + finish);
+		System.out.printf("the price for the trip should be %.2f %n", + finish);
 	}
 	
 }	
