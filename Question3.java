@@ -2,7 +2,13 @@ import java.util.Scanner;
 
 public class Question3 {
   public static void main(String[] args) {
-int num1,num2,num3,result;
+	
+	  //variables
+	int num1;
+	int num2;
+	int num3;
+	int result;
+	  
 		System.out.println("Enter any 3 integers ");
 		Scanner in = new Scanner(System.in);
 		num1 = in.nextInt();
